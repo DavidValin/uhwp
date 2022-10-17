@@ -2,6 +2,8 @@
 
 > Protocol that standarizes the communication between a hardware wallet device and a comander device.
 
+![uhwp](uhwp.png)
+
 *Work in progress DRAFT. Consider to donate!*
 
 ### Motivation
