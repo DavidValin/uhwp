@@ -14,10 +14,20 @@ In order to achieve future open hardware wallets, fully opensource standards and
 ### Background
 ### Requirements
 ### Definitions
+
+* Account:
+* Account balance:
+* Commander device:
+* Command:
+* Command response:
+* Hardware wallet:
+* Transaction:
+* Wallet device:
+
 ### Specification index
 ```
-* 1 - Device modes
-* 2 - Device states
+* 1 - Wallet device modes
+* 2 - Wallet device states
 * 3 - Initialization
   * 3.1 - Master key generation
     * 3.1.1 - BIP39 Master key
